@@ -8,7 +8,7 @@ import PersonAddIcon from "@mui/icons-material/PersonAdd";
 import TrafficIcon from "@mui/icons-material/Traffic";
 import Header from "../../components/Header.jsx";
 import LineChart from "../../components/Linechart.jsx";
-import GeographyChart from "../../components/Geographychart.jsx";
+import Geographychart from "../../components/Geographychart.jsx";
 import BarChart from "../../components/Barchart";
 import StatBox from "../../components/Statbox.jsx";
 import ProgressCircle from "../../components/ProgressCircle.jsx";
@@ -214,7 +214,7 @@ export default function Dashboard() {
         >
           <Typography variant="h5" fontWeight='600' sx={{mb:"15px"}} >Geography based trafic</Typography>
           <Box height="200px" mt="-20px" >
-            <GeographyChart isDashboard={true} />
+            <Geographychart isDashboard={true} />
 
           </Box>
 
