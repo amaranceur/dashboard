@@ -4,7 +4,7 @@ import { mockPieData as data } from '../data/mockData'
 import { useTheme } from '@mui/material'
 import { tokens } from '../theme'
 
-export default function Piechart() {
+export default function PieChart() {
     const theme = useTheme();
     const colors = tokens(theme.palette.mode);
 
