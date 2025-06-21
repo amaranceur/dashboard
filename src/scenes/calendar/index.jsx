@@ -5,7 +5,7 @@ import { useState } from 'react'
 import timeGridPlugin from '@fullcalendar/timegrid' // needed for timeGrid
 import listPlugin from '@fullcalendar/list' // needed for list view
 import { Box,List,ListItem,ListItemText,Typography,useTheme } from '@mui/material'
-import Header from '../../components/Header'
+import Header from '../../components/Header.jsx'
 import { tokens } from '../../theme'
 const Calendar = () => {
     const theme = useTheme();

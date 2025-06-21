@@ -1,6 +1,6 @@
 import { Box } from "@mui/material";
-import Header from "../../components/Header";
-import Geographychart from "../../components/Geographychart";
+import Header from "../../components/Header.jsx";
+import Geographychart from "../../components/Geographychart.jsx";
 
 const Geography = () => {
   return (

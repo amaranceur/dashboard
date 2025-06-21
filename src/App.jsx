@@ -7,12 +7,12 @@ import Team from "./scenes/team";
 import Form from "./scenes/form";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import { ColorModeContext, useMode } from "./theme";
-import Calendar from "./scenes/calendar";
-import FAQ from "./scenes/faq";
-import Bar from "./scenes/bar";
-import Pie from "./scenes/pie";
-import Line from "./scenes/line";
-import Geography from "./scenes/geography";
+import Calendar from "./scenes/calendar.jsx";
+import FAQ from "./scenes/faq.jsx";
+import Bar from "./scenes/bar.jsx";
+import Pie from "./scenes/pie.jsx";
+import Line from "./scenes/line.jsx";
+import Geography from "./scenes/geography.jsx";
 import Contacts from "./scenes/contacts/index.jsx";
 import Invoices from "./scenes/invoices/index.jsx";
 function App() {

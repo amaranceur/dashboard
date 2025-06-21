@@ -6,12 +6,12 @@ import EmailIcon from "@mui/icons-material/Email";
 import PointOfSaleIcon from "@mui/icons-material/PointOfSale";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";
 import TrafficIcon from "@mui/icons-material/Traffic";
-import Header from "../../components/Header";
-import LineChart from "../../components/LineChart";
-import GeographyChart from "../../components/GeographyChart";
+import Header from "../../components/Header.jsx";
+import LineChart from "../../components/LineChart.jsx";
+import GeographyChart from "../../components/Geographychart.jsx";
 import BarChart from "../../components/BarChart";
-import StatBox from "../../components/StatBox";
-import ProgressCircle from "../../components/ProgressCircle";
+import StatBox from "../../components/Statbox.jsx";
+import ProgressCircle from "../../components/ProgressCircle.jsx";
 
 
 export default function Dashboard() {
