@@ -7,9 +7,9 @@ import PointOfSaleIcon from "@mui/icons-material/PointOfSale";
 import PersonAddIcon from "@mui/icons-material/PersonAdd";
 import TrafficIcon from "@mui/icons-material/Traffic";
 import Header from "../../components/Header.jsx";
-import LineChart from "../../components/LineChart.jsx";
+import LineChart from "../../components/Linechart.jsx";
 import GeographyChart from "../../components/Geographychart.jsx";
-import BarChart from "../../components/BarChart";
+import BarChart from "../../components/Barchart";
 import StatBox from "../../components/Statbox.jsx";
 import ProgressCircle from "../../components/ProgressCircle.jsx";
 
